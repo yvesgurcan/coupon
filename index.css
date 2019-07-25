@@ -16,6 +16,7 @@ section {
   padding: 20px;
   align-items: center;
   background: orange;
+  border-radius: 10px;
 }
 
 h1 {
