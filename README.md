@@ -1,1 +1,1 @@
-🍺 Coupon for a free beer.
+Free coupon!
