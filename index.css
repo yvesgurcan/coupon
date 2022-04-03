@@ -2,6 +2,7 @@ body {
   margin: auto;
   font-family: "Luckiest Guy", cursive;
   letter-spacing: 3px;
+  min-width: 100vw;
 }
 
 #outer {
@@ -17,7 +18,7 @@ section {
 
 h1 {
   margin: 0;
-  font-size: 110px;
+  font-size: 100px;
   text-transform: uppercase;
   color: black;
   text-align: center;
