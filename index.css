@@ -1,7 +1,5 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: auto;
   font-family: "Luckiest Guy", cursive;
   letter-spacing: 3px;
 }
